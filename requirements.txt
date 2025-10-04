@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+bitsandbytes
+safetensors
+pillow
+opencv-python
+fastapi
+uvicorn

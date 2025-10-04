@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Video and temporary data
+data/input/
+data/chunks/
+data/frames/
+data/timeline.json
+
+# Hugging Face and transformers cache
+~/.cache/
+~/.huggingface/
+~/.local/share/huggingface/
+~/Library/Caches/huggingface/
+
+# Model weights
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# IDE settings
+.idea/
+.vscode/
+
