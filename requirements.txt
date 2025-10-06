@@ -1,11 +1,28 @@
+# Core PyTorch (installs CUDA version automatically if available)
 torch
 torchvision
 torchaudio
-transformers
-accelerate
+
+# Transformers & Qwen2-VL
+transformers>=4.43.0
+accelerate>=0.33.0
 bitsandbytes
 safetensors
+qwen-vl-utils
+
+# CV / image processing
 pillow
 opencv-python
+numpy
+filterpy
+
+# Object detection (YOLOv8)
+ultralytics
+
+# FastAPI + WebSocket server
 fastapi
 uvicorn
+python-multipart
+
+# Optional – for monitoring and memory optimization
+psutil

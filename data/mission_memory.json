@@ -1,0 +1,76 @@
+{
+  "zone_48.719_11.505": {
+    "detections": {},
+    "timeline": [
+      {
+        "ts": 1759761453,
+        "summary": "\ud83d\udfe2 +2 car(s); \ud83d\udfe2 +3 person(s); \ud83d\udfe2 +10 truck(s)\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage shows a large fire in a village with two prominent towers. There are approximately 10 people visible, including firefighters and emergency personnel. Smoke is billowing from the fire, and the village is surrounded by green fields and trees. The fire is actively burning, and there are no visible signs of immediate danger to nearby structures or people. The village appears to be relatively safe, but the fire could pose a risk to nearby buildings and structures.",
+        "detections": {
+          "person": 3,
+          "truck": 10,
+          "car": 2
+        },
+        "deltas": [
+          "\ud83d\udfe2 +3 person(s)",
+          "\ud83d\udfe2 +10 truck(s)",
+          "\ud83d\udfe2 +2 car(s)"
+        ]
+      },
+      {
+        "ts": 1759761514,
+        "summary": "\ud83d\udfe2 +6 car(s); \ud83d\udfe2 +11 person(s); \ud83d\udd34 -2 truck(s)\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage shows a village with several old stone buildings, some of which are on fire. There are visible flames and smoke, indicating a fire. Several vehicles, including fire trucks, are present, suggesting an emergency response. The village is surrounded by greenery, and there are no visible people in the immediate vicinity of the fire. The buildings appear to be old and may be at risk of collapse. The scene is tense, with the fire spreading rapidly and the village under threat.",
+        "detections": {
+          "person": 14,
+          "car": 8,
+          "truck": 8
+        },
+        "deltas": [
+          "\ud83d\udfe2 +11 person(s)",
+          "\ud83d\udfe2 +6 car(s)",
+          "\ud83d\udd34 -2 truck(s)"
+        ]
+      },
+      {
+        "ts": 1759762311,
+        "summary": "\ud83d\udd34 -89 car(s); \ud83d\udd34 -58 person(s); \ud83d\udd34 -6 truck(s)\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage captures a residential neighborhood with numerous houses and apartment buildings. There are approximately 10 people visible on the streets, with a total of 10 vehicles, including cars and trucks. No immediate signs of fire or smoke are visible. There are no visible rescue activities or blocked areas. The neighborhood appears to be relatively safe, but the presence of people and vehicles suggests a busy area.",
+        "detections": {},
+        "deltas": [
+          "\ud83d\udd34 -14 person(s)",
+          "\ud83d\udd34 -8 car(s)",
+          "\ud83d\udd34 -8 truck(s)"
+        ]
+      },
+      {
+        "ts": 1759762382,
+        "summary": "No major changes.\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage captures a residential neighborhood with numerous houses and a few parked cars. There are approximately 10 people visible, mostly walking or standing on the sidewalks. No visible fire or smoke is present. There are no immediate signs of rescue activity or blocked areas. The neighborhood appears to be relatively safe, but the presence of people suggests a possible emergency situation.",
+        "detections": {},
+        "deltas": []
+      }
+    ],
+    "last_summary": "No major changes.\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage captures a residential neighborhood with numerous houses and a few parked cars. There are approximately 10 people visible, mostly walking or standing on the sidewalks. No visible fire or smoke is present. There are no immediate signs of rescue activity or blocked areas. The neighborhood appears to be relatively safe, but the presence of people suggests a possible emergency situation."
+  },
+  "zone_48.719_11.504": {
+    "detections": {
+      "person": 58,
+      "car": 89,
+      "truck": 6
+    },
+    "timeline": [
+      {
+        "ts": 1759761629,
+        "summary": "\ud83d\udfe2 +81 car(s); \ud83d\udfe2 +44 person(s); \ud83d\udd34 -2 truck(s)\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage captures a village with two prominent stone towers, one of which is on fire. There are at least 10 visible buildings, with some structures in ruins. Smoke is billowing from the fire, and there are several emergency vehicles, including fire trucks, present. The village is surrounded by green fields and trees, and the fire appears to be affecting the roof of one of the buildings. The immediate area around the fire is blocked, and there are no visible people in the vicinity. The overall scene suggests a serious fire emergency.",
+        "detections": {
+          "person": 58,
+          "car": 89,
+          "truck": 6
+        },
+        "deltas": [
+          "\ud83d\udfe2 +58 person(s)",
+          "\ud83d\udfe2 +89 car(s)",
+          "\ud83d\udfe2 +6 truck(s)"
+        ]
+      }
+    ],
+    "last_summary": "\ud83d\udfe2 +81 car(s); \ud83d\udfe2 +44 person(s); \ud83d\udd34 -2 truck(s)\nuser\nYou are an emergency mission assistant. Summarize this drone footage concisely for a dispatcher. Include counts of people and vehicles (approx.), any visible fire/smoke, rescue activity, blocked/at-risk areas, and urgent hazards or changes.\nassistant\nThe drone footage captures a village with two prominent stone towers, one of which is on fire. There are at least 10 visible buildings, with some structures in ruins. Smoke is billowing from the fire, and there are several emergency vehicles, including fire trucks, present. The village is surrounded by green fields and trees, and the fire appears to be affecting the roof of one of the buildings. The immediate area around the fire is blocked, and there are no visible people in the vicinity. The overall scene suggests a serious fire emergency."
+  }
+}
